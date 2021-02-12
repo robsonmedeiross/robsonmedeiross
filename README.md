@@ -8,6 +8,5 @@
 <div display="flex align-itens="center">
 [<div align="left" width="50%" height="200"><img src="https://github-readme-stats.vercel.app/api?username=robsonmedeiross&show_icons=true&theme=dracula&locale=en" alt="robsonmedeiross" /></div>](https://github.com/robsonmedeiross)
 
-[<div align="center" width="50%" height="200"><img align="center" width="50%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=robsonmedeiross&show_icons=true&locale=en&theme=dracula&layout=compact" alt="robsonmedeiross" /></div>](https://github.com/robsonmedeiross)
-</div>
+[<div align="center" width="50%" height="200"><img align="center" width="50%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=robsonmedeiross&show_icons=true&locale=en&theme=dracula&layout=compact" alt="robsonmedeiross" /></div>](https://github.com/robsonmedeiross)</div>
  
