@@ -8,6 +8,6 @@
 
 <a href="https://github.com/robsonmedeiross">
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=robsonmedeiross&show_icons=true&theme=dracula&locale=en" alt="robsonmedeiross" />
-<img width="45%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=robsonmedeiross&show_icons=true&locale=en&theme=dracula&layout=compact" alt="robsonmedeiross" />
+<img width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=robsonmedeiross&show_icons=true&locale=en&theme=dracula&layout=compact" alt="robsonmedeiross" />
 </a>
  
