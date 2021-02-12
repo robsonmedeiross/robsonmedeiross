@@ -11,3 +11,10 @@
 <img width="45%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=robsonmedeiross&show_icons=true&locale=en&theme=dracula&layout=compact" alt="robsonmedeiross" />
 </a>
  
+About Me
+🎓   Studying Information Systems at Federal Rural University of Semiarid.
+💻   Front end developer at Acelerabit.
+📘   Learning more about React Native.
+🎵   Lofi | Synthwave | Vaporwave | Future Funk
+🎮   League of Legends | Ragnarok
+❤️   JoJo Bizarre Adventures | Shingeki no Kyojin | Steins;Gate | Cowboy Bebop
