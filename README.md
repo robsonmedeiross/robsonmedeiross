@@ -8,5 +8,5 @@
 
 [<img align="left" width="49%" height="200" src="https://github-readme-stats.vercel.app/api?username=robsonmedeiross&show_icons=true&theme=dracula&locale=en" alt="robsonmedeiross" />](https://github.com/robsonmedeiross)
 
-[<img align="center" width="49%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=robsonmedeiross&show_icons=true&locale=en&theme=dracula&layout=compact" alt="robsonmedeiross" />](https://github.com/robsonmedeiross)
+[<img align="center" width="49%" height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=robsonmedeiross&show_icons=true&locale=en&theme=dracula&layout=compact" alt="robsonmedeiross" />](https://github.com/robsonmedeiross)
  
