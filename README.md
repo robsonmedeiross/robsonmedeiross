@@ -14,5 +14,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robsonmedeiross&show_icons=true&locale=en" alt="robsonmedeiross" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robsonmedeiross&show_icons=true&locale=en&layout=compact" alt="robsonmedeiross" /></p>
+<p><img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs?username=robsonmedeiross&show_icons=true&locale=en&layout=compact" alt="robsonmedeiross" /></p>
 
