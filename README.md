@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Robson Medeiros</h1>
-<h3 align="left">frontend developer</h3>
+<h3 align="left">front-end developer</h3>
 
-
+<p>Oi! 😎 Eu me chamo Robson Medeiros e estou me desenvolvendo como programador. Atualmente, estou focando meus estudos no <strong>Front-end</strong> com as linguagem JavaScript e TypeScript com os frameworks/bibliotecas ReactJs.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robsonmedeiross&label=Profile%20views&color=0e75b6&style=flat" alt="robsonmedeiross" /> </p>
 
