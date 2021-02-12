@@ -8,4 +8,4 @@
 
 [![Robson GitHub stats](https://github-readme-stats.vercel.app/api?username=robsonmedeiross&show_icons=true&theme=dracula&locale=en)](https://github.com/robsonmedeiross)
 
-<p><img align="center" color="red" src="https://github-readme-stats.vercel.app/api/top-langs?username=robsonmedeiross&show_icons=true&locale=en&layout=compact" alt="robsonmedeiross" /></p> 
+[![Robson GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=robsonmedeiross&show_icons=true&theme=dracula&locale=en&layout=compact")](https://github.com/robsonmedeiross)
