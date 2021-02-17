@@ -7,7 +7,7 @@
 
 <ul>
 <li><g-emoji class="g-emoji" alias="mortar_board" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">🎓</g-emoji> &nbsp; Computação e informática pela UFERSA.</li>
-<li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> &nbsp; Front end developer Turing-Tecnologia.</li>
+<li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> &nbsp; Front end developer Turing-Tecnologia Jr.</li>
 <li><g-emoji class="g-emoji" alias="blue_book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d8.png">📘</g-emoji> &nbsp; Learning TypeScript | React Native | NodeJs.</li>
 
 <h3 align="left">Languages and Tools:</h3>
